@@ -1,0 +1,3 @@
+org.springframework.context.ApplicationContextInitializer=cn.expond.MyExpond
+
+org.springframework.context.ApplicationListener=cn.event.lisenner.MyLisenner
